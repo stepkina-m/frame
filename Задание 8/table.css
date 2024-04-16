@@ -1,0 +1,50 @@
+table {
+width:300px;
+height:150px;
+border:1px solid grey;
+border-collapse:collapse;
+}
+td {
+border: 1px solid grey;
+align="center";
+
+}
+th {
+border:1px solid grey;
+background-color: silver;
+
+}
+divl {
+float : left;
+}
+divr {
+float: right;
+}
+ 
+	body { border-top-width: 4 px;
+		border: 4 px;}
+	
+#masha{
+background-color: #73C6B6 ;
+}
+
+#mas {
+background-color: #A2D9CE;
+}
+
+#mash {
+background-color: #45B39D ;
+}
+
+button {
+width:200px;
+padding:15px;
+background-color: pink;
+height:50px;
+margin: 5.5%
+} 
+a {text-decoration: none; }
+
+  a:hover {
+    border: 3px #f00 solid; /* стили рамки ссылок под курсором мыши */
+   }
